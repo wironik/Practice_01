@@ -1,0 +1,13 @@
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.exe
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.deps.json
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.runtimeconfig.json
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.runtimeconfig.dev.json
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.dll
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\SVM_Task_01.pdb
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.csprojAssemblyReference.cache
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.AssemblyInfoInputs.cache
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.AssemblyInfo.cs
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.csproj.CoreCompileInputs.cache
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.dll
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.pdb
+E:\project\SuyaznovaVM_Task_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\SVM_Task_01.genruntimeconfig.cache
