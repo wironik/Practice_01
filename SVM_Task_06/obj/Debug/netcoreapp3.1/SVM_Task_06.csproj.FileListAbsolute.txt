@@ -1,0 +1,13 @@
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.exe
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.deps.json
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.runtimeconfig.json
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.runtimeconfig.dev.json
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.dll
+E:\project\TrainingPractice_01\SVM_Task_06\bin\Debug\netcoreapp3.1\SVM_Task_06.pdb
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.csprojAssemblyReference.cache
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.AssemblyInfoInputs.cache
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.AssemblyInfo.cs
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.csproj.CoreCompileInputs.cache
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.dll
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.pdb
+E:\project\TrainingPractice_01\SVM_Task_06\obj\Debug\netcoreapp3.1\SVM_Task_06.genruntimeconfig.cache
