@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\SuyaznovaVM_Task_01\\SVM_Task_03\\SVM_Task_03.csproj": {}
+    "E:\\project\\TrainingPractice_01\\SVM_Task_03\\SVM_Task_03.csproj": {}
   },
   "projects": {
-    "E:\\project\\SuyaznovaVM_Task_01\\SVM_Task_03\\SVM_Task_03.csproj": {
+    "E:\\project\\TrainingPractice_01\\SVM_Task_03\\SVM_Task_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\SuyaznovaVM_Task_01\\SVM_Task_03\\SVM_Task_03.csproj",
+        "projectUniqueName": "E:\\project\\TrainingPractice_01\\SVM_Task_03\\SVM_Task_03.csproj",
         "projectName": "SVM_Task_03",
-        "projectPath": "E:\\project\\SuyaznovaVM_Task_01\\SVM_Task_03\\SVM_Task_03.csproj",
+        "projectPath": "E:\\project\\TrainingPractice_01\\SVM_Task_03\\SVM_Task_03.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\SuyaznovaVM_Task_01\\SVM_Task_03\\obj\\",
+        "outputPath": "E:\\project\\TrainingPractice_01\\SVM_Task_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
